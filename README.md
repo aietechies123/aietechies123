@@ -63,13 +63,13 @@ Precision.
 
 <p align="left">
   <a href="https://techiesaie.com">
-    <img src="https://cdn.simpleicons.org/googlechrome" height="24" alt="Website" />
+    <img src="https://cdn.simpleicons.org/googlechrome/white" height="24" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/company/techies-aie/">
-    <img src="https://cdn.simpleicons.org/linkedin" height="24" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn" />
   </a>
-  <a href="https://bsky.app/">
-    <img src="https://bsky.app/profile/techiesaie.bsky.social" height="24" alt="Bluesky" />
+  <a href="https://bsky.app/profile/techiesaie.bsky.social">
+    <img src="https://cdn.simpleicons.org/bluesky/0285FF" height="24" alt="Bluesky" />
   </a>
 </p>
 
