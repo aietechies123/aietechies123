@@ -1,16 +1,77 @@
-## Hi there 👋
+# Techiesaie
 
-<!--
-**aietechies123/aietechies123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building clean, scalable, and high-performance digital experiences.
 
-Here are some ideas to get you started:
+Techiesaie is a software-focused brand dedicated to crafting modern websites, web applications, and digital systems designed for growth. We combine structured engineering with refined design to create platforms that are not only visually strong but technically reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+Techiesaie focuses on clarity, performance, and scalability.
+We build systems that:
+
+* Load fast
+* Scale smoothly
+* Stay maintainable
+* Deliver clean user experiences
+
+Our goal is simple — turn ideas into structured, production-ready digital products.
+
+---
+
+## Core Stack
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/php" height="28" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/laravel" height="28" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/javascript" height="28" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/react" height="28" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="28" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/node.js" height="28" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="28" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/mysql" height="28" alt="MySQL" />
+</p>
+
+---
+
+## What We Build
+
+* Startup Websites
+* SaaS Platforms
+* Custom Dashboards
+* E-commerce Systems
+* API Integrations
+* Scalable Backend Architectures
+
+Every project is structured for long-term maintainability and growth.
+
+---
+
+## Philosophy
+
+We don’t chase trends.
+We build systems that last.
+
+Performance.
+Structure.
+Precision.
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://techiesaie.com">
+    <img src="https://cdn.simpleicons.org/googlechrome" height="24" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/company/techies-aie/">
+    <img src="https://cdn.simpleicons.org/linkedin" height="24" alt="LinkedIn" />
+  </a>
+  <a href="https://bsky.app/">
+    <img src="https://bsky.app/profile/techiesaie.bsky.social" height="24" alt="Bluesky" />
+  </a>
+</p>
+
+---
+
